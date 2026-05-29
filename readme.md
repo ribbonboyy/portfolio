@@ -74,3 +74,35 @@ an unsettling game with Y2K, Liquid glass and Frutiger Aero elements. It is the 
 
 ### Jizian Empire Underwater Research Station (JEURS)
 unfinished larp game I wanted to make for my group (Jizian Empire) but never ended up finshing. It is similar to naramo and some other research games.
+It offers an entire team system with leveling, ranks with leveling, administration quests, machinery wing where the facility has to be maintained. 
+The entire core (the hull) can be destroyed, repaired and managed. The higher the payload on the hull, the more money, electricity but the hull breaks faster and more features. I spent a lot of hours and time working on this game but I decided that it wasn't good enough to release, it is still important to talk about I feel like because of how complex the game's code got sometimes. 
+
+<table border="0" cellpadding="10" cellspacing="0" width="100%">
+  <tr>
+    <td width="45%" align="center" valign="middle">
+      <img src="./Assets/jeu.png" alt="profile 1" width="100%">
+    </td>
+    <td width="55%" valign="middle" style="font-size: 16px; line-height: 1.6;">
+      <p>
+        The JEURS administration wing and facility (hull) control room. All operations are managed from here.
+      </p>
+    </td>
+  </tr>
+</table>
+
+
+<table border="0" cellpadding="10" cellspacing="0" width="100%">
+  <tr>
+    <td width="55%" valign="middle" style="font-size: 16px; line-height: 1.6;">
+      <p>
+        The JEURS hallways. JEURS has a wide map set at the bottom of the sea split into 3 main wings, scientific, administration and engineering
+      </p>
+      <p>
+        <strong>JEURS is not playable and will not be, these screenshots should be enough.</strong>
+      </p>
+    </td>
+    <td width="45%" align="center" valign="middle">
+      <img src="./Assets/jeu1.png" alt="profile 2" width="100%">
+    </td>
+  </tr>
+</table>
