@@ -63,7 +63,7 @@ an unsettling game with Y2K, Liquid glass and Frutiger Aero elements. It is the 
         A real screenshot from the game 
       </p>
       <p>
-        <strong>Check your profile editing dashboard for your link.</strong>
+        <strong>The map is not finished and probably won't be ever.</strong>
       </p>
     </td>
     <td width="45%" align="center" valign="middle">
@@ -71,3 +71,6 @@ an unsettling game with Y2K, Liquid glass and Frutiger Aero elements. It is the 
     </td>
   </tr>
 </table>
+
+### Jizian Empire Underwater Research Station (JEURS)
+unfinished larp game I wanted to make for my group (Jizian Empire) but never ended up finshing. It is similar to naramo and some other research games.
