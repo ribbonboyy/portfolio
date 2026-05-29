@@ -115,7 +115,7 @@ Originally a silly meetup game for my communities (it got really crowded) turned
 <table border="0" cellpadding="10" cellspacing="0" width="100%">
   <tr>
     <td width="45%" align="center" valign="middle">
-      <img src="./Assets/jeu2.png" alt="profile 1" width="100%">
+      <img src="./Assets/roadblocks.png" alt="profile 1" width="100%">
     </td>
     <td width="55%" valign="middle" style="font-size: 16px; line-height: 1.6;">
       <p>
@@ -137,7 +137,7 @@ Originally a silly meetup game for my communities (it got really crowded) turned
       </p>
     </td>
     <td width="45%" align="center" valign="middle">
-      <img src="./Assets/image.webp" alt="profile 2" width="100%">
+      <img src="./Assets/imagemlc.webp" alt="profile 2" width="100%">
     </td>
   </tr>
 </table>
@@ -154,7 +154,7 @@ Originally a silly meetup game for my communities (it got really crowded) turned
       </p>
     </td>
     <td width="45%" align="center" valign="middle">
-      <img src="./Assets/imagemlc.png" alt="profile 2" width="100%">
+      <img src="./Assets/imagemlc2.png" alt="profile 2" width="100%">
     </td>
   </tr>
 </table>
