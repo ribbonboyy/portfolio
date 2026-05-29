@@ -1,6 +1,6 @@
 # Bio
 ## Introductions
-Hey, I am Matthew (Matěj, wez3mn, wez, mink), I am a coder (mainly then Lua(u), python, and I know some basics of HTML+CSS), Roblox builder, UI designer (even though it isn't my strongest suit) and game designer. I had to learna  lot of things because I always worked solo so I am a low maintenance needed member of a team, I can work in teams, lead them or listen to a figure because I am a sea scout, I lead groups and I also have to listen to authority, I am also a good listener in general and I can do a lot when I lock in or get myself to it. I am focused on losing weight, gaining muscles and getting good grades lately (all three going beyond well) but I am more than capable of being active almost every other day. Back to professional stuff: I've been working for many many years and I even received the Sparkletime Crown of O's for _my_ own game, I have experience in many fields and many types of games because I like to try new things, the only type of games I don't like doing are simulator games, most other types of games I am okay with working on alone or in a team. I recommend reading everything below this. _ESPECIALLY the JEURS game_
+Hey, I am Matthew (Matěj, wez3mn, wez, mink), I am a coder (mainly then Lua(u), python, and I know some basics of HTML+CSS), Roblox builder, UI designer (even though it isn't my strongest suit), community manager (400k+ members managed) and game designer. I had to learna  lot of things because I always worked solo so I am a low maintenance needed member of a team, I can work in teams, lead them or listen to a figure because I am a sea scout, I lead groups and I also have to listen to authority, I am also a good listener in general and I can do a lot when I lock in or get myself to it. I am focused on losing weight, gaining muscles and getting good grades lately (all three going beyond well) but I am more than capable of being active almost every other day. Back to professional stuff: I've been working for many many years and I even received the Sparkletime Crown of O's for _my_ own game, I have experience in many fields and many types of games because I like to try new things, the only type of games I don't like doing are simulator games, most other types of games I am okay with working on alone or in a team. I recommend reading everything below this. _ESPECIALLY the JEURS game_
 
 # Actual Production
 ## Ro-Link
@@ -119,7 +119,7 @@ Originally a silly meetup game for my communities (it got really crowded) turned
     </td>
     <td width="55%" valign="middle" style="font-size: 16px; line-height: 1.6;">
       <p>
-        The main interior of the cabin.
+        The main interior of the cabin. All built, designed (except for the memes hanging up and some assets similar of that nature) and scripted by me. 
       </p>
     </td>
   </tr>
@@ -130,7 +130,7 @@ Originally a silly meetup game for my communities (it got really crowded) turned
   <tr>
     <td width="55%" valign="middle" style="font-size: 16px; line-height: 1.6;">
       <p>
-        Other screenshot from the log cabin mid-meetup with my communities
+        Other screenshot from the log cabin mid-meetup with my communities, I am the guy sitting with the princess hat, still owned by most prized developer account where I still had money from my games. Good old times.
       </p>
       <p>
         <strong>Please note some stuff might be inappropriate.</strong>
@@ -147,14 +147,14 @@ Originally a silly meetup game for my communities (it got really crowded) turned
   <tr>
     <td width="55%" valign="middle" style="font-size: 16px; line-height: 1.6;">
       <p>
-        Other screenshot from the log cabin mid-meetup with my communities
+        Other screenshot from the log cabin mid-meetup with my communities. I am mad (short for madeline) because I was trans at the time. VERY long story that I don't wanna explain here.
       </p>
       <p>
         <strong>Please note some stuff might be inappropriate.</strong>
       </p>
     </td>
     <td width="45%" align="center" valign="middle">
-      <img src="./Assets/imagemlc2.png" alt="profile 2" width="100%">
+      <img src="./Assets/imagemlc2.webp" alt="profile 2" width="100%">
     </td>
   </tr>
 </table>
@@ -177,6 +177,16 @@ an unsettling game with Y2K, Liquid glass and Frutiger Aero elements. It is the 
     </td>
   </tr>
 </table>
+
+## Community Managment 
+I don't find this section that important because I am done with community managment, it has cost me many many mental health issues, many hours spent for nothing and many horrible experiences, but also helped me as a person sometimes, showed me that the internet isn't so bad and also sometimes I actually enjoyed the communities I came to manage or create.
+
+most namely, Coffee Gang (formerly a big server now just a small shell because all members got banned), Jizzcord (which was on its was to 10 thousand members before the member count started dropping rapidly and the member started being inactive because I and my mods did too) and many MANY other servers.
+
+I was most famous as Mink, a nickname I now come to despise because of how much imoral and cringe things I did under that name and how much history I attached to it. I was also known as madeline for a while. 
+Community managment made me a better way in the sense that I know how to manage a community and can work with people but also ruined my mental for a lot of reasons. 
+
+I don't want my past servers to be counted as something that should be displayed, I just wanted to mention that I have lots of experience with community managment. 
 
 ## Art
 The art section
