@@ -115,7 +115,7 @@ Originally a silly meetup game for my communities (it got really crowded) turned
 <table border="0" cellpadding="10" cellspacing="0" width="100%">
   <tr>
     <td width="45%" align="center" valign="middle">
-      <img src="./Assets/roadblocks.png" alt="roadblocks" width="100%">
+      <img src="./roadblocks.png" alt="roadblocks" width="100%">
     </td>
     <td width="55%" valign="middle" style="font-size: 16px; line-height: 1.6;">
       <p>
@@ -221,3 +221,5 @@ The art section
     </td>
   </tr>
 </table>
+
+### If you've read to here, thanks! I hope you learned about me.
