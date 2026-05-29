@@ -1,15 +1,6 @@
 # Bio
 ## Introductions
-Ok so I kinda like have to make a portfolio because I realised that my skill can be used for more than stupid games.. namely I wanna get into STEC or Tellus ar. so I had to make this portfolio
-
-If you wanna see my scripting skills for UI (which might be one of my strong suits but I know how to code server-side well too) go to codesnippet.lua
-
-A it of a secret talent: I am not even kidding, being so deadass, like as serious as a person can be, I also draw furries (i am not a furry myself though I draw other stuff too), check the "Art" folder I created in this repo
-
-## Personal 
-I also wanna include more personal stuff because that's like uhh important sometimes
-
-I am a czech sea scout leader, pentuple polygot, coder, designer, writer, academic beast, music lover and cat person, I also draw (as mentioned above) and I also like math. Considering furryism and alcoholism. (both a joke) I love larp and also my github and discord pfp is me in the m53 czechoslovak helmet (original used piece)
+Hey, I am Matthew (Matěj, wez3mn, wez, mink), I am a coder (mainly then Lua(u), python, and I know some basics of HTML+CSS), Roblox builder, UI designer (even though it isn't my strongest suit) and game designer. I had to learna  lot of things because I always worked solo so I am a low maintenance needed member of a team, I can work in teams, lead them or listen to a figure because I am a sea scout, I lead groups and I also have to listen to authority, I am also a good listener in general and I can do a lot when I lock in or get myself to it. I am focused on losing weight, gaining muscles and getting good grades lately (all three going beyond well) but I am more than capable of being active almost every other day. Back to professional stuff: I've been working for many many years and I even received the Sparkletime Crown of O's for _my_ own game, I have experience in many fields and many types of games because I like to try new things, the only type of games I don't like doing are simulator games, most other types of games I am okay with working on alone or in a team. I recommend reading everything below this.
 
 # Actual Production
 ## Ro-Link
