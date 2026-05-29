@@ -1,6 +1,6 @@
 # Bio
 ## Introductions
-Hey, I am Matthew (Matěj, wez3mn, wez, mink), I am a coder (mainly then Lua(u), python, and I know some basics of HTML+CSS), Roblox builder, UI designer (even though it isn't my strongest suit) and game designer. I had to learna  lot of things because I always worked solo so I am a low maintenance needed member of a team, I can work in teams, lead them or listen to a figure because I am a sea scout, I lead groups and I also have to listen to authority, I am also a good listener in general and I can do a lot when I lock in or get myself to it. I am focused on losing weight, gaining muscles and getting good grades lately (all three going beyond well) but I am more than capable of being active almost every other day. Back to professional stuff: I've been working for many many years and I even received the Sparkletime Crown of O's for _my_ own game, I have experience in many fields and many types of games because I like to try new things, the only type of games I don't like doing are simulator games, most other types of games I am okay with working on alone or in a team. I recommend reading everything below this.
+Hey, I am Matthew (Matěj, wez3mn, wez, mink), I am a coder (mainly then Lua(u), python, and I know some basics of HTML+CSS), Roblox builder, UI designer (even though it isn't my strongest suit) and game designer. I had to learna  lot of things because I always worked solo so I am a low maintenance needed member of a team, I can work in teams, lead them or listen to a figure because I am a sea scout, I lead groups and I also have to listen to authority, I am also a good listener in general and I can do a lot when I lock in or get myself to it. I am focused on losing weight, gaining muscles and getting good grades lately (all three going beyond well) but I am more than capable of being active almost every other day. Back to professional stuff: I've been working for many many years and I even received the Sparkletime Crown of O's for _my_ own game, I have experience in many fields and many types of games because I like to try new things, the only type of games I don't like doing are simulator games, most other types of games I am okay with working on alone or in a team. I recommend reading everything below this. _ESPECIALLY the bottom game_
 
 # Actual Production
 ## Ro-Link
@@ -75,7 +75,7 @@ The entire core (the hull) can be destroyed, repaired and managed. The higher th
     </td>
     <td width="55%" valign="middle" style="font-size: 16px; line-height: 1.6;">
       <p>
-        The JEURS administration wing and facility (hull) control room. All operations are managed from here.
+        The JEURS administration wing and facility (hull) control room. All operations are managed from here including ordering new executive orders that use the facility funds, activating hull shields (self-repair) and more. All administration staff also spawn here and the safety bunker (for hull explosions) is located here.
       </p>
     </td>
   </tr>
@@ -86,7 +86,7 @@ The entire core (the hull) can be destroyed, repaired and managed. The higher th
   <tr>
     <td width="55%" valign="middle" style="font-size: 16px; line-height: 1.6;">
       <p>
-        The JEURS hallways. JEURS has a wide map set at the bottom of the sea split into 3 main wings, scientific, administration and engineering
+        The JEURS hallways. JEURS has a wide map set at the bottom of the sea split into 3 main wings, scientific, administration and engineering. All three serve their own purpose and the game needs all three to function, the game is playable in 2 or even 1 because a player can pass quickly enough to other parts and the administration team has access to every action, room and area of the facility. 
       </p>
       <p>
         <strong>JEURS is not playable and will not be, these screenshots should be enough.</strong>
