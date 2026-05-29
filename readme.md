@@ -44,3 +44,30 @@ Ro-link is a feature-rich profile/portfolio/introduction page making game. The d
     </td>
   </tr>
 </table>
+
+## Burger Game
+stim game, not finished, still shows the skill on server-side (even if it can be shitty because it isn't finished) 
+## Fling
+I no longer have control over the account this game is hosted on, but it is my game, all movement and camera systems are made by me, shows my ability to work with the way players interact with the game.
+
+## Lesser projects
+projects that never saw the day of light but I think are worth mentioning
+
+### Sobertiy Pools
+an unsettling game with Y2K, Liquid glass and Frutiger Aero elements. It is the game I used the camera damp. script (codesnippet2.lua) in.
+
+<table border="0" cellpadding="10" cellspacing="0" width="100%">
+  <tr>
+    <td width="55%" valign="middle" style="font-size: 16px; line-height: 1.6;">
+      <p>
+        A real screenshot from the game 
+      </p>
+      <p>
+        <strong>Check your profile editing dashboard for your link.</strong>
+      </p>
+    </td>
+    <td width="45%" align="center" valign="middle">
+      <img src="./Assets/sobpools.png" alt="profile 2" width="100%">
+    </td>
+  </tr>
+</table>
