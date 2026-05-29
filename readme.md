@@ -178,6 +178,9 @@ an unsettling game with Y2K, Liquid glass and Frutiger Aero elements. It is the 
   </tr>
 </table>
 
+### Unreleased NS game
+I don't want to leak anything from this game because I don't know how much the general public knows and I don't want to get into trouble or for amburgie to be mad at me but I thought that it would be important to mention but (amongst other bigger and more important contributions) I worked on a very big and important piece (bascially the centre piece) of an unreleased NS game.
+
 ## Community Managment 
 I don't find this section that important because I am done with community managment, it has cost me many many mental health issues, many hours spent for nothing and many horrible experiences, but also helped me as a person sometimes, showed me that the internet isn't so bad and also sometimes I actually enjoyed the communities I came to manage or create.
 
