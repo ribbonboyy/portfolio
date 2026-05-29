@@ -128,3 +128,37 @@ an unsettling game with Y2K, Liquid glass and Frutiger Aero elements. It is the 
     </td>
   </tr>
 </table>
+
+## Art
+The art section
+<table border="0" cellpadding="10" cellspacing="0" width="100%">
+  <tr>
+    <td width="55%" valign="middle" style="font-size: 16px; line-height: 1.6;">
+      <p>
+        A commission
+      </p>
+      <p>
+        <strong>Don't steal, I was given permission by the commission person to put it here</strong>
+      </p>
+    </td>
+    <td width="45%" align="center" valign="middle">
+      <img src="./Art/commdoggo2.png" alt="profile 2" width="100%">
+    </td>
+  </tr>
+</table>
+
+<table border="0" cellpadding="10" cellspacing="0" width="100%">
+  <tr>
+    <td width="55%" valign="middle" style="font-size: 16px; line-height: 1.6;">
+      <p>
+        Protogens are just easy to draw
+      </p>
+      <p>
+        <strong>This is mine, steal it all you want I guess.</strong>
+      </p>
+    </td>
+    <td width="45%" align="center" valign="middle">
+      <img src="./Art/Proot.png" alt="profile 2" width="100%">
+    </td>
+  </tr>
+</table>
