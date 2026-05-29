@@ -68,6 +68,7 @@ unfinished larp game I wanted to make for my group (Jizian Empire) but never end
 It offers an entire team system with leveling, ranks with leveling, administration quests, machinery wing where the facility has to be maintained. 
 The entire core (the hull) can be destroyed, repaired and managed. The higher the payload on the hull, the more money, electricity but the hull breaks faster and more features. I spent a lot of hours and time working on this game but I decided that it wasn't good enough to release, it is still important to talk about I feel like because of how complex the game's code got sometimes. 
 
+### Game
 <table border="0" cellpadding="10" cellspacing="0" width="100%">
   <tr>
     <td width="45%" align="center" valign="middle">
@@ -94,6 +95,37 @@ The entire core (the hull) can be destroyed, repaired and managed. The higher th
     </td>
     <td width="45%" align="center" valign="middle">
       <img src="./Assets/jeu1.png" alt="profile 2" width="100%">
+    </td>
+  </tr>
+</table>
+
+### Hull
+<table border="0" cellpadding="10" cellspacing="0" width="100%">
+  <tr>
+    <td width="45%" align="center" valign="middle">
+      <img src="./Assets/jeu2.png" alt="profile 1" width="100%">
+    </td>
+    <td width="55%" valign="middle" style="font-size: 16px; line-height: 1.6;">
+      <p>
+        The hull is an important part of the game, the entire facility depends on it for production of electricity, oil mining (thus funds), pressurization and the overall activity of the facility. The administration team operates it from the administration wing, the science department does the "reasearch" in the name and operates it from the hull access point and the engineering team operates it from the engineering wing, making sure all systems are online (including cleaning CO2 filters, the CO2 system is an important mechanic, if the filters aren't cleaned and replaced, CO2 starts to build up and choke the crew, this shows in multiple different ways). 
+      </p>
+    </td>
+  </tr>
+</table>
+
+
+<table border="0" cellpadding="10" cellspacing="0" width="100%">
+  <tr>
+    <td width="55%" valign="middle" style="font-size: 16px; line-height: 1.6;">
+      <p>
+        The hull access point is a place in the science wing of the JEURS where the science department can monitor, closely operate the hull and report any data back to the administration, the science department has, however, nowhere close to the administration team in terms of controlling the hull. 
+      </p>
+      <p>
+        <strong>The science deparment can however start a file upload and do more small tasks, these eat electricity, take a lot of time but earn funds.</strong>
+      </p>
+    </td>
+    <td width="45%" align="center" valign="middle">
+      <img src="./Assets/jeu3.png" alt="profile 2" width="100%">
     </td>
   </tr>
 </table>
