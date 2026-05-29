@@ -18,7 +18,7 @@ Ro-link is a feature-rich profile/portfolio/introduction page making game. The d
 <table border="0" cellpadding="10" cellspacing="0" width="100%">
   <tr>
     <td width="45%" align="center" valign="middle">
-      <img src="./Assets/ddfg-png" alt="profile 1" width="100%">
+      <img src="./Assets/ddfg.png" alt="profile 1" width="100%">
     </td>
     <td width="55%" valign="middle" style="font-size: 16px; line-height: 1.6;">
       <p>
