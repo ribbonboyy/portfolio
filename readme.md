@@ -115,7 +115,7 @@ Originally a silly meetup game for my communities (it got really crowded) turned
 <table border="0" cellpadding="10" cellspacing="0" width="100%">
   <tr>
     <td width="45%" align="center" valign="middle">
-      <img src="./Assets/roadblocks.png" alt="profile 1" width="100%">
+      <img src="./Assets/roadblocks.png" alt="roadblocks" width="100%">
     </td>
     <td width="55%" valign="middle" style="font-size: 16px; line-height: 1.6;">
       <p>
@@ -147,7 +147,7 @@ Originally a silly meetup game for my communities (it got really crowded) turned
   <tr>
     <td width="55%" valign="middle" style="font-size: 16px; line-height: 1.6;">
       <p>
-        Other screenshot from the log cabin mid-meetup with my communities. I am mad (short for madeline) because I was trans at the time. VERY long story that I don't wanna explain here.
+        Other screenshot from the log cabin mid-meetup with my communities. I am mad (short for madeline) because I was trans at the time. VERY long story that I don't wanna explain here, I am the purple avatar on the bottom right.
       </p>
       <p>
         <strong>Please note some stuff might be inappropriate.</strong>
