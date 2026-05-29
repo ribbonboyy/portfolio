@@ -13,7 +13,7 @@ Ro-link is a feature-rich profile/portfolio/introduction page making game. The d
     </td>
     <td width="55%" valign="middle" style="font-size: 16px; line-height: 1.6;">
       <p>
-        Your expression on Ro-Link is fully in your hands with my dashboard and customization features, this is my profile..
+        Your expression on Ro-Link is fully in your hands with my dashboard and customization features, you can add many different modules into your profile and customize them, I added many features and ways to customize your profile and it makes it very very easy to make good-looking profiles. This is my profile on the platform. The background image is one I took on the czech mountain Lysá hora.
       </p>
     </td>
   </tr>
@@ -24,10 +24,10 @@ Ro-link is a feature-rich profile/portfolio/introduction page making game. The d
   <tr>
     <td width="55%" valign="middle" style="font-size: 16px; line-height: 1.6;">
       <p>
-        You can very easily create cool-looking, minimalist and cold profiles, this is the profile of a random user. The only limitation is Roblox itself, it compresses many images.
+        You can very easily create cool-looking, minimalist and cold profiles, this is the profile of a random user. The only limitation is Roblox itself, it compresses all images into low quality, it can still look cool on a profile, like in this person's profile. It also offers an actual side of the bio-LINK name, you can give people a link and when the game is launched using that link, your profile will instantly load up and show upon the game loading. 
       </p>
       <p>
-        <strong>Check your profile editing dashboard for your link.</strong>
+        <strong>Check your profile editing dashboard for your Ro-link link.</strong>
       </p>
     </td>
     <td width="45%" align="center" valign="middle">
@@ -106,9 +106,58 @@ The entire core (the hull) can be destroyed, repaired and managed. The higher th
   </tr>
 </table>
 
-
 ## Lesser projects
-projects that never saw the day of light (or are just bad) but I think are worth mentioning
+projects that never saw the day of light (or aren't so important etc.) but I think are worth mentioning
+
+### Modern Log Cabin
+Originally a silly meetup game for my communities (it got really crowded) turned into a somewhat testing ground for small projects and modules to add into games, MLC is a nice cozy meetup game with many cool features and things to do, including a pretty cool handmade shop style that I have only seen done in flex your weather before where the product is a physical 3D object you click to buy, a plinko, AFK mode, day/night mode, secret rooms, money earning, a click-to-sit system and a very cool note system (tool handled), this also shows my skills with player interaction and server-side too.
+
+<table border="0" cellpadding="10" cellspacing="0" width="100%">
+  <tr>
+    <td width="45%" align="center" valign="middle">
+      <img src="./Assets/jeu2.png" alt="profile 1" width="100%">
+    </td>
+    <td width="55%" valign="middle" style="font-size: 16px; line-height: 1.6;">
+      <p>
+        The main interior of the cabin.
+      </p>
+    </td>
+  </tr>
+</table>
+
+
+<table border="0" cellpadding="10" cellspacing="0" width="100%">
+  <tr>
+    <td width="55%" valign="middle" style="font-size: 16px; line-height: 1.6;">
+      <p>
+        Other screenshot from the log cabin mid-meetup with my communities
+      </p>
+      <p>
+        <strong>Please note some stuff might be inappropriate.</strong>
+      </p>
+    </td>
+    <td width="45%" align="center" valign="middle">
+      <img src="./Assets/image.webp" alt="profile 2" width="100%">
+    </td>
+  </tr>
+</table>
+
+
+<table border="0" cellpadding="10" cellspacing="0" width="100%">
+  <tr>
+    <td width="55%" valign="middle" style="font-size: 16px; line-height: 1.6;">
+      <p>
+        Other screenshot from the log cabin mid-meetup with my communities
+      </p>
+      <p>
+        <strong>Please note some stuff might be inappropriate.</strong>
+      </p>
+    </td>
+    <td width="45%" align="center" valign="middle">
+      <img src="./Assets/imagemlc.png" alt="profile 2" width="100%">
+    </td>
+  </tr>
+</table>
 
 ### Sobertiy Pools
 an unsettling game with Y2K, Liquid glass and Frutiger Aero elements. It is the game I used the camera damp. script (codesnippet2.lua) in.
