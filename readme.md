@@ -1,6 +1,6 @@
 # Bio
 ## Introductions
-Hey, I am Matthew (Matěj, wez3mn, wez, mink), I am a coder (mainly then Lua(u), python, and I know some basics of HTML+CSS), Roblox builder, UI designer (even though it isn't my strongest suit) and game designer. I had to learna  lot of things because I always worked solo so I am a low maintenance needed member of a team, I can work in teams, lead them or listen to a figure because I am a sea scout, I lead groups and I also have to listen to authority, I am also a good listener in general and I can do a lot when I lock in or get myself to it. I am focused on losing weight, gaining muscles and getting good grades lately (all three going beyond well) but I am more than capable of being active almost every other day. Back to professional stuff: I've been working for many many years and I even received the Sparkletime Crown of O's for _my_ own game, I have experience in many fields and many types of games because I like to try new things, the only type of games I don't like doing are simulator games, most other types of games I am okay with working on alone or in a team. I recommend reading everything below this. _ESPECIALLY the bottom game_
+Hey, I am Matthew (Matěj, wez3mn, wez, mink), I am a coder (mainly then Lua(u), python, and I know some basics of HTML+CSS), Roblox builder, UI designer (even though it isn't my strongest suit) and game designer. I had to learna  lot of things because I always worked solo so I am a low maintenance needed member of a team, I can work in teams, lead them or listen to a figure because I am a sea scout, I lead groups and I also have to listen to authority, I am also a good listener in general and I can do a lot when I lock in or get myself to it. I am focused on losing weight, gaining muscles and getting good grades lately (all three going beyond well) but I am more than capable of being active almost every other day. Back to professional stuff: I've been working for many many years and I even received the Sparkletime Crown of O's for _my_ own game, I have experience in many fields and many types of games because I like to try new things, the only type of games I don't like doing are simulator games, most other types of games I am okay with working on alone or in a team. I recommend reading everything below this. _ESPECIALLY the JEURS game_
 
 # Actual Production
 ## Ro-Link
@@ -38,33 +38,9 @@ Ro-link is a feature-rich profile/portfolio/introduction page making game. The d
 
 ## Burger Game
 stim game, not finished, still shows the skill on server-side (even if it can be shitty because it isn't finished) 
-## Fling
-I no longer have control over the account this game is hosted on, but it is my game, all movement and camera systems are made by me, shows my ability to work with the way players interact with the game.
-
-## Lesser projects
-projects that never saw the day of light but I think are worth mentioning
-
-### Sobertiy Pools
-an unsettling game with Y2K, Liquid glass and Frutiger Aero elements. It is the game I used the camera damp. script (codesnippet2.lua) in.
-
-<table border="0" cellpadding="10" cellspacing="0" width="100%">
-  <tr>
-    <td width="55%" valign="middle" style="font-size: 16px; line-height: 1.6;">
-      <p>
-        A real screenshot from the game 
-      </p>
-      <p>
-        <strong>The map is not finished and probably won't be ever.</strong>
-      </p>
-    </td>
-    <td width="45%" align="center" valign="middle">
-      <img src="./Assets/sobpools.png" alt="profile 2" width="100%">
-    </td>
-  </tr>
-</table>
 
 ### Jizian Empire Underwater Research Station (JEURS)
-unfinished larp game I wanted to make for my group (Jizian Empire) but never ended up finshing. It is similar to naramo and some other research games.
+This is an unfinished larp game I wanted to make for my group (Jizian Empire) but never ended up finshing. It is similar to naramo and some other research games.
 It offers an entire team system with leveling, ranks with leveling, administration quests, machinery wing where the facility has to be maintained. 
 The entire core (the hull) can be destroyed, repaired and managed. The higher the payload on the hull, the more money, electricity but the hull breaks faster and more features. I spent a lot of hours and time working on this game but I decided that it wasn't good enough to release, it is still important to talk about I feel like because of how complex the game's code got sometimes. 
 
@@ -126,6 +102,29 @@ The entire core (the hull) can be destroyed, repaired and managed. The higher th
     </td>
     <td width="45%" align="center" valign="middle">
       <img src="./Assets/jeu3.png" alt="profile 2" width="100%">
+    </td>
+  </tr>
+</table>
+
+
+## Lesser projects
+projects that never saw the day of light (or are just bad) but I think are worth mentioning
+
+### Sobertiy Pools
+an unsettling game with Y2K, Liquid glass and Frutiger Aero elements. It is the game I used the camera damp. script (codesnippet2.lua) in.
+
+<table border="0" cellpadding="10" cellspacing="0" width="100%">
+  <tr>
+    <td width="55%" valign="middle" style="font-size: 16px; line-height: 1.6;">
+      <p>
+        A real screenshot from the game 
+      </p>
+      <p>
+        <strong>The map is not finished and probably won't be ever.</strong>
+      </p>
+    </td>
+    <td width="45%" align="center" valign="middle">
+      <img src="./Assets/sobpools.png" alt="profile 2" width="100%">
     </td>
   </tr>
 </table>
