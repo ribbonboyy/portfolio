@@ -3,27 +3,27 @@
 -- It features a lot of important and cool features, including a dish assamble mode and more stuff that make the game feel alive
 -- I hope this also shows my script skills more, I tried to redact only the least important things.
 
+-- I have to redact a lot so the game doesn't get leaked but I am pretty proud of it and wanna include it. I know this kinda defeats the whole purpose but I need to do this
+
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 
 local player: Player = Players.LocalPlayer
 
-local openMenuEvent: RemoteEvent = ReplicatedStorage:WaitForChild("OpenOrderingMenu", 10) :: RemoteEvent
-local confirmOrderEvent: RemoteEvent = ReplicatedStorage:WaitForChild("ConfirmOrder", 10) :: RemoteEvent
-local orderPlacedEvent: RemoteEvent = ReplicatedStorage:WaitForChild("OrderPlaced", 10) :: RemoteEvent
+-- redacted
 
-local FoodsModule = require(ReplicatedStorage:WaitForChild("Foods")) :: {[string]: {[string]: {Description: string, Model: string}}}
+local -Module = require(ReplicatedStorage:WaitForChild("---")) :: {[string]: {[string]: {Description: string, Model: string}}}
 local CategoriesModule = require(ReplicatedStorage:WaitForChild("Categories")) :: {string}
 
-local ModelsFolder: Folder = ReplicatedStorage:WaitForChild("Foods"):WaitForChild("Models")
+local ModelsFolder: Folder = ReplicatedStorage:WaitForChild("---"):WaitForChild("Models")
 
 local gui: ScreenGui = script.Parent :: ScreenGui
 local MainFrame: Frame = gui:WaitForChild("MainFrame") :: Frame
 
-local FoodCategoryFrame: Frame = MainFrame:WaitForChild("FoodCategory") :: Frame
+local [smt]CategoryFrame: Frame = MainFrame:WaitForChild("---Category") :: Frame
 local FcTemplate: Frame = FoodCategoryFrame:WaitForChild("FcTemplate") :: Frame
 
-local SpecificFoodFrame: Frame = MainFrame:WaitForChild("SpecificFood") :: Frame
+local Specific---Frame: Frame = MainFrame:WaitForChild("SpecificFood") :: Frame
 local SpTemplate: Frame = SpecificFoodFrame:WaitForChild("SpTemplate") :: Frame
 
 local ShoppingCartFrame: Frame = MainFrame:WaitForChild("ShoppingCart") :: Frame
@@ -123,11 +123,11 @@ local function attachViewportHover(viewport: ViewportFrame): ()
 	connect()
 end
 
-local function loadSpecificFoods(categoryName: string): ()
-	clearClones(SpecificFoodFrame, SpTemplate)
+local function loadSpecific[smt](categoryName: string): ()
+	clearClones(Specific[smt]Frame, SpTemplate)
 
-	local categoryFoods: {[string]: {Description: string, Model: string}}? = FoodsModule[categoryName]
-	if not categoryFoods then return end
+	local category[smt]: {[string]: {Description: string, Model: string}}? = [smt]Module[categoryName]
+	if not category[smt] then return end
 
 	for foodName: string, foodData in pairs(categoryFoods) do
 		local clone: Frame = SpTemplate:Clone() :: Frame
@@ -139,15 +139,15 @@ local function loadSpecificFoods(categoryName: string): ()
 		local modelViewport: ViewportFrame? = safeFind(clone, "Model")
 		local selectBtn: TextButton? = safeFind(clone, "Select")
 
-		if nameLabel then (nameLabel :: TextLabel).Text = foodName end
-		if descLabel then (descLabel :: TextLabel).Text = foodData.Description or "" end
+		if nameLabel then (nameLabel :: TextLabel).Text = [smt]Name end
+		if descLabel then (descLabel :: TextLabel).Text = [smt]Data.Description or "" end
 		if modelViewport then
-			loadModelIntoViewport(modelViewport :: ViewportFrame, foodData.Model)
+			loadModelIntoViewport(modelViewport :: ViewportFrame, [smt]Data.Model)
 			attachViewportHover(modelViewport :: ViewportFrame)
 		end
 
 		if selectBtn then
-			local capturedFood: string = foodName
+			local capturedFood: string = [smt]Name
 			local capturedData: {Description: string, Model: string} = foodData
 			local capturedCategory: string = categoryName
 
