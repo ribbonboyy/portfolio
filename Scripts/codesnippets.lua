@@ -23,7 +23,7 @@ local MainFrame: Frame = gui:WaitForChild("MainFrame") :: Frame
 local [smt]CategoryFrame: Frame = MainFrame:WaitForChild("---Category") :: Frame
 local FcTemplate: Frame = FoodCategoryFrame:WaitForChild("FcTemplate") :: Frame
 
-local Specific---Frame: Frame = MainFrame:WaitForChild("SpecificFood") :: Frame
+local Specific [smt]Frame: Frame = MainFrame:WaitForChild("Specific[smt]") :: Frame
 local SpTemplate: Frame = SpecificFoodFrame:WaitForChild("SpTemplate") :: Frame
 
 local ShoppingCartFrame: Frame = MainFrame:WaitForChild("ShoppingCart") :: Frame
