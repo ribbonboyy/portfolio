@@ -50,16 +50,28 @@ an unsettling game with Y2K, Liquid glass and Frutiger Aero elements. It is the 
 
 <table border="0" cellpadding="10" cellspacing="0" width="100%">
   <tr>
+    <td width="45%" align="center" valign="middle">
+      <img src="./Assets/sobpools.png" alt="profile 1" width="100%">
+    </td>
     <td width="55%" valign="middle" style="font-size: 16px; line-height: 1.6;">
       <p>
-        A real screenshot from the game 
-      </p>
-      <p>
-        <strong>The map is not finished and probably won't be ever.</strong>
+        Real screenshot from the game
       </p>
     </td>
-    <td width="45%" align="center" valign="middle">
-      <img src="./Assets/sobpools.png" alt="profile 2" width="100%">
+  </tr>
+</table>
+
+
+<table border="0" cellpadding="10" cellspacing="0" width="100%">
+  <tr>
+    <td width="55%" valign="middle" style="font-size: 16px; line-height: 1.6;">
+      <p>
+        Newer refreshed version of the map
+      </p>
+      <p>
+        <strong>Game is still private</strong>
+      </p>
+    </td>
     <td width="45%" align="center" valign="middle">
       <img src="./Assets/sobpools2.png" alt="profile 2" width="100%">
     </td>
