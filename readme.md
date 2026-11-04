@@ -45,6 +45,27 @@ I am a scripter for The W. An urban-warfare PVP game with 4M+ visits.
 ## Burger Game
 stim game, not finished, still shows the skill on server-side (even if it can be shitty because it isn't finished) 
 
+## Sobertiy Pools
+an unsettling game with Y2K, Liquid glass and Frutiger Aero elements. It is the game I used the camera damp. script (codesnippet2.lua) in.
+
+<table border="0" cellpadding="10" cellspacing="0" width="100%">
+  <tr>
+    <td width="55%" valign="middle" style="font-size: 16px; line-height: 1.6;">
+      <p>
+        A real screenshot from the game 
+      </p>
+      <p>
+        <strong>The map is not finished and probably won't be ever.</strong>
+      </p>
+    </td>
+    <td width="45%" align="center" valign="middle">
+      <img src="./Assets/sobpools.png" alt="profile 2" width="100%">
+    <td width="45%" align="center" valign="middle">
+      <img src="./Assets/sobpools2.png" alt="profile 2" width="100%">
+    </td>
+  </tr>
+</table>
+
 ### Jizian Empire Underwater Research Station (JEURS)
 This is an unfinished larp game I wanted to make for my group (Jizian Empire) but never ended up finshing. It is similar to naramo and some other research games.
 It offers an entire team system with leveling, ranks with leveling, administration quests, machinery wing where the facility has to be maintained. 
@@ -161,25 +182,6 @@ Originally a silly meetup game for my communities (it got really crowded) turned
     </td>
     <td width="45%" align="center" valign="middle">
       <img src="./Assets/imagemlc2.webp" alt="profile 2" width="100%">
-    </td>
-  </tr>
-</table>
-
-### Sobertiy Pools
-an unsettling game with Y2K, Liquid glass and Frutiger Aero elements. It is the game I used the camera damp. script (codesnippet2.lua) in.
-
-<table border="0" cellpadding="10" cellspacing="0" width="100%">
-  <tr>
-    <td width="55%" valign="middle" style="font-size: 16px; line-height: 1.6;">
-      <p>
-        A real screenshot from the game 
-      </p>
-      <p>
-        <strong>The map is not finished and probably won't be ever.</strong>
-      </p>
-    </td>
-    <td width="45%" align="center" valign="middle">
-      <img src="./Assets/sobpools.png" alt="profile 2" width="100%">
     </td>
   </tr>
 </table>
