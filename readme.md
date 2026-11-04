@@ -60,6 +60,7 @@ an unsettling game with Y2K, Liquid glass and Frutiger Aero elements. It is the 
     </td>
     <td width="45%" align="center" valign="middle">
       <img src="./Assets/sobpools.png" alt="profile 2" width="100%">
+    </td>
     <td width="45%" align="center" valign="middle">
       <img src="./Assets/sobpools2.png" alt="profile 2" width="100%">
     </td>
